@@ -1,0 +1,99 @@
+body{
+  /* background-color: black;
+  color: grey; */
+  padding: 0px;
+}
+
+h1{
+  text-align: center;
+  padding-top: 20px;
+}
+
+h3{
+  padding: 10px 0 0 20px;
+}
+
+h4{
+  padding-left: 40px;
+}
+
+table{
+  padding-left: 40px;
+}
+ul{
+  list-style-type: none;
+  padding-left: 30px;
+}
+
+ol{
+  padding-left: 55px;
+}
+
+li{
+  padding: 5px;
+}
+
+a{
+  text-decoration: none;
+}
+
+th{
+  text-align: center;
+  padding-right: 40px;
+}
+td{
+  padding-right: 40px;
+}
+
+p{
+  padding-left: 40px;
+}
+
+.tabspace{
+  margin-left: 40px;
+}
+
+.tabspace2{
+  margin-left: 80px;
+}
+
+.btn_back{
+  position: absolute;
+  left:20px;
+  font-size: 1em;
+}
+
+.btn_home{
+  position: absolute;
+  font-size: 1em;
+  right:20px;
+}
+
+/* index page */
+.indexsection{
+   width: 33%;
+  float: left;
+}
+
+.heading{
+  text-align:center;
+}
+
+.command{
+  padding-left: 50px;
+}
+
+.dotlist{
+  list-style-type: disc;
+  padding-left: 40px;
+}
+
+.line{
+    width: 100%;
+    border-bottom: 1px solid black;
+    padding-b: 10px 0 10px 0;
+}
+
+.subsection{
+  padding-left: 40px;
+}
